@@ -1,0 +1,8 @@
+RENCANA KONTEN SANDRA
+
+-Javascipt
+*ES6
+*Framework Javascript
+-HTML
+-CSS
+-Phyton
